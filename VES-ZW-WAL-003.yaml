@@ -17,8 +17,8 @@ blueprint:
   domain: automation
   input:
     vesternet_device:
-      name: Vesternet Controller
-      description: List of available Vesternet 4-Button devices.
+      name: Vesternet 2-Button Controller
+      description: List of available Vesternet 2-Button devices.
       selector:
         device:
           integration: zwave_js
