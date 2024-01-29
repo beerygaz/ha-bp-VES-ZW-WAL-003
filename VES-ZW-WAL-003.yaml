@@ -63,7 +63,7 @@ blueprint:
       selector:
         action: {}
     
-  source_url: https://github.com/beerygaz/ha-bp-VES-ZW-WAL-003
+  source_url: https://github.com/beerygaz/ha-bp-VES-ZW-WAL-003/blob/dev/VES-ZW-WAL-003.yaml
 mode: single
 max_exceeded: silent
 variables:
